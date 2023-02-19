@@ -1,0 +1,106 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Brazil?",
+      "options": ["Sao Paulo", "Rio de Janeiro", "Brasilia", "Belo Horizonte"],
+      "answer": "Brasilia"
+    },
+    {
+      "question": "What is the currency of Russia?",
+      "options": ["Euro", "Ruble", "Yen", "Dollar"],
+      "answer": "Ruble"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["Gobi", "Sahara", "Mojave", "Atacama"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "What is the largest ocean in the world?",
+      "options": ["Atlantic", "Arctic", "Indian", "Pacific"],
+      "answer": "Pacific"
+    },
+    {
+      "question": "Who is the current President of the United States?",
+      "options": ["Donald Trump", "Barack Obama", "Joe Biden", "George Bush"],
+      "answer": "Joe Biden"
+    },
+    {
+      "question": "What is the largest country by land area?",
+      "options": ["Russia", "China", "Canada", "United States"],
+      "answer": "Russia"
+    },
+    {
+      "question": "What is the name of the longest river in Africa?",
+      "options": ["Nile", "Congo", "Zambezi", "Niger"],
+      "answer": "Nile"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Michelangelo", "Leonardo da Vinci", "Pablo Picasso"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the name of the highest mountain in the world?",
+      "options": ["Mount Everest", "Mount Kilimanjaro", "Mount Denali", "Mount Fuji"],
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "What is the name of the smallest planet in our solar system?",
+      "options": ["Mars", "Venus", "Mercury", "Saturn"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the name of the fastest land animal?",
+      "options": ["Lion", "Gazelle", "Cheetah", "Leopard"],
+      "answer": "Cheetah"
+    },
+    {
+      "question": "What is the name of the longest bone in the human body?",
+      "options": ["Tibia", "Femur", "Humerus", "Radius"],
+      "answer": "Femur"
+    },
+    {
+      "question": "Who discovered the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the name of the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+   
+    },
+    {
+        "question": "What is the name of the largest bird in the world?",
+        "options": ["Penguin", "Ostrich", "Emu", "Albatross"],
+        "answer": "Ostrich"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Ag", "Au", "Fe", "Hg"],
+        "answer": "Au"
+    },
+    {
+        "question": "What is the name of the first man to walk on the moon?",
+        "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "What is the name of the largest continent in the world?",
+        "options": ["North America", "Asia", "South America", "Africa"],
+        "answer": "Asia"
+    },
+    {
+        "question": "What is the name of the smallest country in the world?",
+        "options": ["Monaco", "Vatican City", "Liechtenstein", "San Marino"],
+        "answer": "Vatican City"
+    }
+]
+}
+        
